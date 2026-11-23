@@ -1,0 +1,6 @@
+{
+  "name": "HFD Microbiome Analyzer",
+  "description": "Plataforma científica en español para analizar y comparar la microbiota intestinal entre dieta alta en grasas (HFD) y dieta control en ratones, con funciones metabólicas, respuesta inmune, referencias reales de PubMed y exportación a PDF y Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
